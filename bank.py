@@ -1,5 +1,5 @@
 print("hai vs")
-print('Welcome to TS ATM')
+print('Welcome to ATM')
 restart=('Y')
 chances = 3
 balance = 67.14
