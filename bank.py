@@ -22,7 +22,7 @@ while chances >= 0:
             print('Your Balance is %f',balance,'\n')
                 restart = input('Would You you like to go back? ')
                 if restart in ('n','NO','no','N'):
-                    print('Thank You')
+                    print('Thank You!!!')
                     break
             elif option == 2:
                 option2 = ('y')
