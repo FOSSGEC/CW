@@ -35,7 +35,7 @@ while chances >= 0:
                         print('Thank You')
                         break
                 elif withdrawl != [10, 20, 40, 60, 80, 100]:
-                    print('Invalid Amount, Please Re-try\n')
+                    print('Invalid Amount, Please try again\n')
                     restart = ('y')
                 elif withdrawl == 1:
                     withdrawl = float(input('Please Enter Desired amount:'))    
